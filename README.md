@@ -15,7 +15,7 @@ I'm a Full Stack Developer with my ♥ in [React](https://reactjs.org).
 
 <br />
 
-<img align="right" alt="GIF" src="./assets/banner.jpg" width="240px" />
+<img align="right" alt="GIF" src="./ft_mia.jpg" width="240px" />
 
 <br />
 
