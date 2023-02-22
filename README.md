@@ -19,14 +19,6 @@ I'm a Full Stack Developer with my ♥ in [React](https://reactjs.org).
 
 <br />
 
-## What i'm up to
-
-- 🔭 I’m currently working @ [Vercel](https://vercel.com).
-- 🌱 I’m currently working with [React](https://reactjs.org).
-- 👯 Owner of a Developer Community.
-- 💬 Creating content in [my blog](https://blog.gonzalopozzo.com), [Twitch](https://twitch.gonzalopozzo.com) and [YouTube](https://youtube.gonzalopozzo.com).
-
-<br />
 
 ## Languages and Tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
