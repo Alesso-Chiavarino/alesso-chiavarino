@@ -28,4 +28,5 @@ I'm a Full Stack Developer with my ♥ in [React](https://reactjs.org).
 
 ---
 
-![Alessandro github stat](https://github-readme-stats.vercel.app/api?username=alesso-chiavarino&show_icons=true&hide_border=true)
+![Alessandro github stat](https://github-readme-stats.vercel.app/api?username=alesso-chiavarino&show_icons=true&hide_border=true&bg_color=000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alesso-chiavarino&hide_progress=true&bg_color=000)
